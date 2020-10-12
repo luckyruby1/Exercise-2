@@ -1,5 +1,5 @@
 {
-  "name": "nodetscstarter",
+  "name": "Exercise-2",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/body-parser": "^1.17.1",
     "@types/express": "^4.17.1",
-    "@types/node": "^12.7.11",
+    "@types/node": "^12.12.67",
     "nodemon": "^1.19.3",
     "npm-run-all": "^4.1.5",
     "rimraf": "^3.0.0",
@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gsilber/NodeTypescriptStarter.git"
+    "url": "git+https://github.com/luckyruby1/Exercise-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gsilber/NodeTypescriptStarter/issues"
+    "url": "https://github.com/luckyruby1/Exercise-2.git"
   },
-  "homepage": "https://github.com/gsilber/NodeTypescriptStarter#readme"
+  "homepage": "https://github.com/luckyruby1/Exercise-2.git"
 }
